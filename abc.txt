@@ -1,0 +1,2 @@
+testing one more command which add and then commit automatically
+
